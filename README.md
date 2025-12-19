@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayantan Maity</h1>
-<h3 align="center">A passionate QA Engineer from India have 2+ years in Software testing. Familiar with both manual and automation testing. Have experience with Python, Pytest, Playwright, Locust, Swagger, Postman and many other.</h3>
+<h3 align="center">A passionate QA Engineer from India have 4+ years in Software testing. Familiar with both manual and automation testing. Have experience with Python, Pytest, Playwright, Locust, Swagger, Postman and many other.</h3>
 
 - 📫 How to reach me **sayantanmaity2795@gmail.com**
 
